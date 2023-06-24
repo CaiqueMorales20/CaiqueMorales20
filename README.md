@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Caique Morales, and I have been a developer since 2019, specializing in HTML, CSS, JavaScript, React, and React Native. I have been honing my skills in React, which has become the primary technology for both my personal and professional projects. 
+My name is Caique Morales, and I have been a developer for 4 years now, specializing in HTML, CSS, JavaScript, React, and React Native. I have been honing my skills in React, which has become the primary technology for both my personal and professional projects. 
 
 I also have a deep passion for CSS and its ability to offer responsiveness and captivating visual elements. I can confidently say that I am genuinely passionate about it.
 <!--
