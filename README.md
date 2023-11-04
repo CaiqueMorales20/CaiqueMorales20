@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Caique and I have been a developer for 3-4 years now, specializing in HTML, CSS, JavaScript, React, React Native, and Firebase. I have been honing my skills in React and Firebase, which have become the primary technologies for both my personal and professional projects.
+My name is Caique Morales and I have been a developer for 4 years now, specializing in CSS, React, React Native amd Next. I have been honing my skills in Next and Firebase, which have become the primary technologies for both my personal and professional projects.
 
 I also have a deep passion for CSS and its ability to offer responsiveness and captivating visual elements. I can confidently say that I am genuinely passionate about it.
 
