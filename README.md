@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-My name is Caique Morales and I have been a developer for 4 years now, specializing in CSS, React, React Native amd Next. I have been honing my skills in Next and Firebase, which have become the primary technologies for both my personal and professional projects.
+A dedicated programmer deeply engaged in mastering various web development technologies. Over the past year, I've extensively worked on JavaScript, TypeScript, and React. Lately, I've been immersed in harnessing the power of Next.js and Tailwind to create efficient, responsive, and visually appealing web applications. 
 
-I also have a deep passion for CSS and its ability to offer responsiveness and captivating visual elements. I can confidently say that I am genuinely passionate about it.
-
-In addition, I take great pride in applying clean code principles to my development process. I believe that writing clean, organized, and maintainable code is crucial for building scalable and efficient applications. Furthermore, I follow a mobile-first approach when crafting my designs, ensuring that the user experience remains seamless across various devices and screen sizes.
+I am passionate about leveraging Next.js and Tailwind to build intuitive, user-friendly and fast interfaces. My commitment to clean code practices allows me to create scalable and robust solutions. By incorporating Kanban methodologies, I ensure that projects are delivered efficiently and iteratively, resulting in high-quality, client-focused outcomes.
 
 
 <!--
