@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A dedicated programmer deeply engaged in mastering various web development technologies. Over the past year, I've extensively worked on JavaScript, TypeScript, and React. Lately, I've been immersed in harnessing the power of Next.js and Tailwind to create efficient, responsive, and visually appealing web applications. 
+A dedicated programmer deeply engaged in mastering various web development technologies. Over the past year, I've extensively worked on JavaScript, TypeScript, Node, and React. Lately, I've been immersed in harnessing the power of Next.js and Tailwind to create efficient, responsive, and visually appealing web applications. 
 
 I am passionate about leveraging Next.js and Tailwind to build intuitive, user-friendly and fast interfaces. My commitment to clean code practices allows me to create scalable and robust solutions. By incorporating Kanban methodologies, I ensure that projects are delivered efficiently and iteratively, resulting in high-quality, client-focused outcomes.
 
