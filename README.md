@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-A dedicated programmer deeply engaged in mastering various web development technologies. Over the past year, I've extensively worked on JavaScript, TypeScript, Node, and React. Lately, I've been immersed in harnessing the power of Next.js and Tailwind to create efficient, responsive, and visually appealing web applications. 
+I am a seasoned web developer with four years of programming experience, specializing in HTML, CSS, React, JavaScript, TypeScript, Git, and Next.js. My expertise extends to mobile app development using React Native and backend integration with Node.js. During my previous working experiences, I contributed to diverse projects, including landing pages, e-commerce platforms, and API creation.
 
-I am passionate about leveraging Next.js and Tailwind to build intuitive, user-friendly and fast interfaces. My commitment to clean code practices allows me to create scalable and robust solutions. By incorporating Kanban methodologies, I ensure that projects are delivered efficiently and iteratively, resulting in high-quality, client-focused outcomes.
+Currently focusing on mastering Next.js, Tailwind CSS, Node.js, and adhering to clean code principles. My commitment to crafting efficient solutions and continuous learning defines my passion for web development.
 
 
 <!--
