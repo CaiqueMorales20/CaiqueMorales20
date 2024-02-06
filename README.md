@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a seasoned web developer with four years of programming experience, specializing in HTML, CSS, React, JavaScript, TypeScript, Git, and Next.js. My expertise extends to mobile app development using React Native and backend integration with Node.js. During my previous working experiences, I contributed to diverse projects, including landing pages, e-commerce platforms, and API creation.
+I am a seasoned web developer with four years of programming experience, specializing in HTML, CSS, React, JavaScript, TypeScript, Git, and Next.js. My expertise extends to mobile app development using React Native and backend integration with Node.js.
+
+During my previous working experiences, I contributed to diverse projects, including landing pages, e-commerce platforms, and API creation.
 
 Currently focusing on mastering Next.js, Tailwind CSS, Node.js, and adhering to clean code principles. My commitment to crafting efficient solutions and continuous learning defines my passion for web development.
 
