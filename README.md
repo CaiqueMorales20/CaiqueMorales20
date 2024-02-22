@@ -6,7 +6,7 @@ I am a seasoned web developer with four years of programming experience, special
 
 During my previous working experiences, I contributed to diverse projects, including landing pages, e-commerce platforms, and API creation.
 
-Currently focusing on mastering Next.js, Tailwind CSS, Node.js, and adhering to clean code principles. My commitment to crafting efficient solutions and continuous learning defines my passion for web development.
+Currently focusing on mastering Next.js, Tailwind CSS, Node.js, Stripe and adhering to clean code principles. My commitment to crafting efficient solutions and continuous learning defines my passion for web development.
 
 
 <!--
